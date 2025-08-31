@@ -1,0 +1,168 @@
+body{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+.text {
+    font-family: "Jost", sans-serif;
+    margin-left: 2%;
+}
+
+
+.vpr {
+    font-family: "Jost", sans-serif;
+    padding-top : 25px;
+}
+
+.photo {
+    height: 100%;
+    width: 100%;
+
+}
+
+.mycard-img {
+    border-radius: 3%;
+    width: 100%;
+}
+
+.mycard {
+    font-family: "Jost", sans-serif;
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.cards{
+    font-family: "Jost", sans-serif;
+    border-right: 20px;
+    background-color: #E9E9E9;
+    border-radius: 3%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.kartinkamezcart {
+    display: flex;
+    width: 20%;
+    height: 20%;
+    margin-top: 8%;
+    padding-left: 3%;
+    padding-right: 4%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.kartinkamezcartimg{
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 25%;
+}
+
+.card-text {
+    font-family: "Jost", sans-serif;
+    font-size: 16;
+    padding: 1%;
+    padding-left: 10px;
+}
+
+.jost-uniquifier {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.plus{
+    display: flex;
+    align-items: center; 
+}
+
+.minus {
+    display: flex;
+    align-items: center;
+}
+
+.krug {
+    width: 14px;
+    height: 14px;
+    display: flex;
+}
+
+
+.btn btn-primary{
+    justify-content: center;
+    align-items: center;
+}
+
+.otvet {
+    margin-left: 2%;
+    font-weight: 400;
+}
+
+.myaccordion{
+    font-family: "Jost", sans-serif;
+    padding: 30px;
+    padding: 1%;
+}
+
+.who {
+    padding: 1%;
+    margin-top: 1%;
+    margin-bottom: 0.4%;
+}
+
+.yxod {
+    padding: 10px;
+}
+
+.paddtext {
+    padding: 20px;
+}
+
+.card-title {
+    padding: 7px;
+
+}
+
+.yxodrazm {
+    font-weight: 450;
+}
+
+#vetka {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#end {
+    height: 20%;
+    background-color: #E9E9E9;
+    display: flex;
+    padding: 5%;
+}
+
+#textend{
+    font-family: "Jost", sans-serif;
+    color: #797979;
+    margin-right: 5%;
+}
+
+#nos {
+    position: absolute;
+    opacity: 100%;
+    height: 22px;
+    width: 37px;
+    left: 920px;
+    top: 305px;
+    opacity: 0%;
+
+}
